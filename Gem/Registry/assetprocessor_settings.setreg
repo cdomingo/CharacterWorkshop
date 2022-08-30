@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder O3DConWorkshop/Assets": {
+                    "watch": "@GEMROOT:O3DConWorkshop@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder O3DConWorkshop/Registry": {
+                    "watch": "@GEMROOT:O3DConWorkshop@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}

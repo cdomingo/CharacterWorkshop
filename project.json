@@ -1,0 +1,20 @@
+{
+    "project_name": "O3DConWorkshop",
+    "project_id": "{50FE9C11-0452-4700-97EC-DE3E45D12010}",
+    "origin": "The primary repo for O3DConWorkshop goes here: i.e. http://www.mydomain.com",
+    "license": "What license O3DConWorkshop uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "O3DConWorkshop",
+    "summary": "A short description of O3DConWorkshop.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "O3DConWorkshop"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de-sdk",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "O3DConWorkshop"
+}

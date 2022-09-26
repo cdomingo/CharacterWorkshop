@@ -343,6 +343,23 @@
                     "$type": "EditorLockComponent",
                     "Id": 12458159045998824165
                 },
+                "Component_[12610633970226310319]": {
+                    "$type": "EditorScriptCanvasComponent",
+                    "Id": 12610633970226310319,
+                    "configuration": {
+                        "sourceHandle": {
+                            "id": "{6FD315D7-12FC-5B3E-AD4A-1B2642B588B0}",
+                            "path": "Assets/Scripts/ActivateCursor.scriptcanvas"
+                        },
+                        "sourceName": "ActivateCursor.scriptcanvas",
+                        "propertyOverrides": {
+                            "source": {
+                                "id": "{6FD315D7-12FC-5B3E-AD4A-1B2642B588B0}",
+                                "path": "Assets/Scripts/ActivateCursor.scriptcanvas"
+                            }
+                        }
+                    }
+                },
                 "Component_[15200282228711209360]": {
                     "$type": "EditorPendingCompositionComponent",
                     "Id": 15200282228711209360

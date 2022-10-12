@@ -359,6 +359,23 @@
                     "$type": "EditorVisibilityComponent",
                     "Id": 18268673158805685618
                 },
+                "Component_[5062988589820711790]": {
+                    "$type": "EditorScriptCanvasComponent",
+                    "Id": 5062988589820711790,
+                    "configuration": {
+                        "sourceHandle": {
+                            "id": "{3D87AE80-3618-5C11-99C9-15863A93FD7F}",
+                            "path": "Assets/ActivateMouse.scriptcanvas"
+                        },
+                        "sourceName": "ActivateMouse.scriptcanvas",
+                        "propertyOverrides": {
+                            "source": {
+                                "id": "{3D87AE80-3618-5C11-99C9-15863A93FD7F}",
+                                "path": "Assets/ActivateMouse.scriptcanvas"
+                            }
+                        }
+                    }
+                },
                 "Component_[7800861943341496146]": {
                     "$type": "GenericComponentWrapper",
                     "Id": 7800861943341496146,

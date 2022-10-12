@@ -179,13 +179,6 @@
                     "$type": "EditorPendingCompositionComponent",
                     "Id": 7169798125182238623
                 },
-                "Component_[7255796294953281766]": {
-                    "$type": "GenericComponentWrapper",
-                    "Id": 7255796294953281766,
-                    "m_template": {
-                        "$type": "FlyCameraInputComponent"
-                    }
-                },
                 "Component_[8866210352157164042]": {
                     "$type": "EditorInspectorComponent",
                     "Id": 8866210352157164042
@@ -388,6 +381,47 @@
                 "Component_[6043428311437750372]": {
                     "$type": "EditorVisibilityComponent",
                     "Id": 6043428311437750372
+                },
+                "Component_[7588176256829827001]": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 7588176256829827001,
+                    "ColliderConfiguration": {
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "_Box_1x1__1__MiddleGrey__physNone"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{C15CD465-9589-56ED-945F-8416FA4798A3}",
+                                    "subId": 858390244
+                                },
+                                "assetHint": "objects/_primitives/_box_1x1.pxmesh"
+                            },
+                            "Configuration": {
+                                "Scale": [
+                                    50.0,
+                                    50.0,
+                                    0.20000000298023224
+                                ],
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{C15CD465-9589-56ED-945F-8416FA4798A3}",
+                                        "subId": 858390244
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "objects/_primitives/_box_1x1.pxmesh"
+                                }
+                            }
+                        },
+                        "HasNonUniformScale": true
+                    },
+                    "HasNonUniformScale": true
                 },
                 "Component_[8450752059441610423]": {
                     "$type": "EditorMaterialComponent",
